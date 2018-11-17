@@ -1,0 +1,32 @@
+UnitName,dbid,type,dbnotes,loadoutid
+AA Carrier,681,Ship,R 33 Carrier. Carries 20+28 aircraft,
+Mig-29K,920,Aircraft,AA Navy,3085
+Ka-31,608,Aircraft,AA Navy,8033
+Sea King Mk42B,248,Aircraft,AA Navy,15393
+AA Frigate 1,2777,Ship,F 45 Teg,
+AA Frigate 2,2777,Ship,F 45 Teg,
+AA Frigate 3,2777,Ship,F 45 Teg,
+AA Destroyer 1,2009,Ship,D 51 Rajput,
+AA Destroyer 2,2009,Ship,D 51 Rajput,
+AA Destroyer 3,2778,Ship,D 61 Delhi,
+AA Submarine 1,166,Submarine,S 55,
+AA Submarine 2,571,Submarine,S 71,
+AA Submarine 3,108,Submarine,S 50,
+BB Frigate 1,1290,Ship,812 Al Riyadh,
+BB Frigate 2,2267,Ship,702 Al Madinah,
+BB Frigate 3,323,Ship,Badr,
+XX Frigate 1,2105,Ship,F 251 Zulfiquar,
+XX Frigate 2,3088,Ship,F 260 Alamgir,
+XX Frigate 3,1256,Ship,F 182 Babur,
+XX Frigate 4,1256,Ship,F 182 Babur,
+XX Frigate 5,1256,Ship,F 182 Babur,
+XX Submarine 1,646,Submarine,S 139 Improved Khalid,
+YY Frigate 1,2695,Ship,F 25 Bangabandhu,
+YY Submarine,643,Submarine,Nabajatra [Type 035G Ming],
+YY Frigate 2,2689,Ship,F 18 Osman,
+Neutral Ship 1,2030,Ship,Commercial Container Vessel,
+Neutral Ship 2,1154,Ship,F 71 Alvand,
+Mig-29 Fulcrum A,856,Aircraft,AA,5270
+Mirage 2000H-5,3798,Aircraft,AA,19107
+F-16CJ Blk 52+,2915,Aircraft,XX,16866
+JF-17 Thunder Blk 2,3298,Aircraft,XX,1348

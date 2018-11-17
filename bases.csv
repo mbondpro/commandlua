@@ -1,0 +1,16 @@
+Lat,Lon,LocationSide,Location,dbid,db_name,qty
+23.5,70.22,AA,AA Airbase 1,1996,Single-Unit Airfield (2x 4000m+ Runways),1
+29.14,76.58,AA,AA Airbase 2,1714,Single-Unit Airfield (2x 2601-3200m Runways),1
+24.6,73.47,AA,AA Airbase 3,1714,Single-Unit Airfield (2x 2601-3200m Runways),1
+22.1,69.16,AA,AA Port 1,210,Structure (Naval Dock),1
+23.6,71.11,AA,AA Army Base 1,2419,Structure (Military Base),1
+22.86,72,AA,AA Army Base 2,2419,Structure (Military Base),1
+26.15,73,AA,AA Army Base 3,2419,Structure (Military Base),1
+27.5,74.3,AA,AA Army Base 4,2419,Structure (Military Base),1
+27.39,75.77,AA,AA Army Base 5,2419,Structure (Military Base),1
+26.55,68.44,XX,XX Airbase 1,1996,Single-Unit Airfield (2x 4000m+ Runways),1
+26.28,67.71,XX,XX Airbase 2,1714,Single-Unit Airfield (2x 2601-3200m Runways),1
+28,69,XX,XX Airbase 3,1714,Single-Unit Airfield (2x 2601-3200m Runways),1
+24.87,66.88,XX,XX Port 1,210,Structure (Naval Dock),1
+27.23,69.1,XX,XX Army Base 1,2419,Structure (Military Base),1
+24.03,68.38,XX,XX Army Base 2,2419,Structure (Military Base),1

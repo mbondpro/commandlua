@@ -1,0 +1,11 @@
+Squadron,Number,Equipment,CC,Service,Base
+AA Fighter Squadron 1,24,Mig-29 Fulcrum A,AA,AF,AA Airbase 1
+AA Fighter Squadron 2,18,Mirage 2000H-5,AA,AF,AA Airbase 2
+AA Fighter Squadron 3,12,Mirage 2000H-6,AA,AF,AA Airbase 1
+XX Fighter Squadron 1,24,F-16CJ Blk 52+,XX,AF,XX Airbase 1
+XX Fighter Squadron 2,12,JF-17 Thunder Blk 2,XX,AF,XX Airbase 2
+XX Fighter Squadron 3,24,F-16CJ Blk 52+,XX,AF,XX Airbase 2
+XX Fighter Squadron 4,12,JF-17 Thunder Blk 2,XX,AF,XX Airbase 3
+AA Carrier Squadron 1,20,Mig-29K,AA,Navy,AA Carrier
+AA Carrier Squadron 2,8,Ka-31,AA,Navy,AA Carrier
+AA Carrier Squadron 3,6,Sea King Mk42B,AA,Navy,AA Carrier
