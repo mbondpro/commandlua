@@ -7,9 +7,9 @@ Author: Mike Bond
 
 from cmddata import CmdData
 
-path = "P:\CommandPE"
+path = "."
 
-cmd = CmdData(inpath=path, outpath=path, outfile='cmdout.txt')
+cmd = CmdData(inpath=path, outpath=path, outfile='LuaCommands.txt')
 
 # Read in all data
 cmd.read('forces.csv') # The main forces
@@ -26,4 +26,4 @@ cmd.addForces()
 cmd.addAircraft()
 
 # Write the buffer to a file, then copy the resulting Lua commands to the game console
-cmd.write('LuaCommands.txt')
+cmd.write()
